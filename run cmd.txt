@@ -1,1 +1,1 @@
-python -m biisal
+python -m gojo
